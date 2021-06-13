@@ -1,0 +1,15 @@
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\Core.dll
+D:\Projects\ApiProjects\WebApi\Infrastructure\bin\Debug\net5.0\Core.pdb
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Projects\ApiProjects\WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
